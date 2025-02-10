@@ -31,7 +31,7 @@ Your data is securely stored and protected against unauthorized access. However,
 
 ## 6. Contact Information
 For any questions regarding this privacy policy, you can contact me at:
-📧 **developerramrem@gmail.com**
+ 📧 **developerramrem@gmail.com**
 
 # GİZLİLİK POLİTİKASI
 
