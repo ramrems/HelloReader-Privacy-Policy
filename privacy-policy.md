@@ -13,9 +13,9 @@ The HelloReader application may collect the following information:
 - **Messages:** Messages exchanged between users are not end-to-end encrypted. Messages are stored in the system but are not kept permanently and are deleted after a certain period.
 
 ## 2. Why Do We Use This Data?
--To ensure the proper functioning of the application
--To improve user experience
--To personalize content based on reading preferences
+- To ensure the proper functioning of the application
+- To improve user experience
+- To personalize content based on reading preferences
 
 ## 3. Data Sharing
 I, ramrem, do not sell or share your personal data with third parties. However, if the application uses third-party services such as Firebase or Google Sign-In, their respective privacy policies may apply.
@@ -23,15 +23,15 @@ I, ramrem, do not sell or share your personal data with third parties. However, 
 ## 4. User Rights
 Users have the following rights:
 
--The right to request access to or deletion of their data
--The right to stop using the application and close their accounts
+- The right to request access to or deletion of their data
+- The right to stop using the application and close their accounts
 
 ## 5. Data Security
 Your data is securely stored and protected against unauthorized access. However, we cannot guarantee that data transmission over the internet is 100% secure.
 
 ## 6. Contact Information
 For any questions regarding this privacy policy, you can contact me at:
- 📧 **developerramrem@gmail.com**
+📧 **developerramrem@gmail.com**
 
 # GİZLİLİK POLİTİKASI
 
