@@ -7,10 +7,10 @@ Hello! I am ramrem, an independent developer of the HelloReader application. Pro
 ## 1. What Data Do We Collect?
 The HelloReader application may collect the following information:
 
--**Identity Information:** (If provided by the user or during login) Username, email address, age, first name, last name.
--**Device Information:** Device model, operating system (required for the application to function).
--**Usage Data:** Reading history, preferred themes, watch and reading lists.
--**Messages:** Messages exchanged between users are not end-to-end encrypted. Messages are stored in the system but are not kept permanently and are deleted after a certain period.
+- **Identity Information:** (If provided by the user or during login) Username, email address, age, first name, last name.
+- **Device Information:** Device model, operating system (required for the application to function).
+- **Usage Data:** Reading history, preferred themes, watch and reading lists.
+- **Messages:** Messages exchanged between users are not end-to-end encrypted. Messages are stored in the system but are not kept permanently and are deleted after a certain period.
 
 ## 2. Why Do We Use This Data?
 -To ensure the proper functioning of the application
