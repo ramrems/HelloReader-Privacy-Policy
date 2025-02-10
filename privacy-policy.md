@@ -26,6 +26,14 @@ Users have the following rights:
 - The right to request access to or deletion of their data
 - The right to stop using the application and close their accounts
 
+**Account Deletion Request:**
+
+Users who wish to delete their account must submit an account deletion request via email. To request account deletion, please send an email from your registered email address to developerramrem@gmail.com. In this email, indicate your request for account deletion and confirm that you wish for all your data associated with the account to be removed.
+
+Once your account deletion request is received, the necessary steps will be taken to process the request. User data will be permanently deleted once the process is completed.
+
+A verification process may be required for this procedure. Account deletion will only be carried out upon requests made from the registered email address.
+
 ## 5. Data Security
 Your data is securely stored and protected against unauthorized access. However, we cannot guarantee that data transmission over the internet is 100% secure.
 
@@ -59,6 +67,14 @@ Ben, **ramrem**, kişisel verilerinizi **üçüncü taraflarla satmam veya payla
 Kullanıcılar şu haklara sahiptir:
 - Verilerini görüntüleme veya silme talebi  
 - Uygulamayı kullanmayı bırakma ve hesaplarını kapatma  
+
+**Hesap Silme Talebi:**
+
+Kullanıcılar, hesaplarını silmek istediklerinde, hesap silme talebini email adresi üzerinden iletmelidirler. Hesap silme talebi yapmak için, lütfen kayıtlı olduğunuz e-posta adresi ile developerramrem@gmail.com adresine bir e-posta gönderin. Bu e-postada, hesap silme talebinizi belirtin ve hesabınızla ilgili tüm verilerin silinmesini istediğinizi onaylayın.
+
+Hesap silme talebiniz alındıktan sonra, talebinizin işleme alınması için gereken adımlar atılacaktır. Kullanıcı verileri, talep edilen işlem tamamlandıktan sonra kalıcı olarak silinecektir.
+
+Bu süreç için bir doğrulama süreci gerekebilir. Hesap silme işlemi yalnızca, kayıtlı e-posta adresi ile yapılan talep üzerine gerçekleştirilir.
 
 ## 5. Veri Güvenliği
 Verileriniz, **yetkisiz erişime karşı korunmaktadır ve güvenli bir şekilde saklanmaktadır**. Ancak, internet üzerinden yapılan veri iletimlerinin **%100 güvenli olduğunu garanti edemeyiz**.
